@@ -1,6 +1,10 @@
 /*Google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Livvic:wght@500&display=swap');
 
+*{
+    margin: 0 auto;
+}
+
 /*navbar*/
 .navbar-container{
     display: flex;
